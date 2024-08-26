@@ -1,0 +1,9 @@
+RzUpdateEngineService
+CortexLauncherService
+GameManagerService
+GameManagerService3
+RazerCortex
+Razer Synapse Service
+Razer Synapse Service Process
+RazerCentralService
+Razer Central

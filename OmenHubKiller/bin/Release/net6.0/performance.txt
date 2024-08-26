@@ -1,13 +1,5 @@
 +omen.txt # Kills omen hub related tasks
 OfficeClickToRun
 mDNSResponder
-RzUpdateEngineService
-CortexLauncherService
-GameManagerService
-GameManagerService3
-RazerCortex
-Razer Synapse Service
-Razer Synapse Service Process
-RazerCentralService
-Razer Central
++razer.txt # Kills razer related tasks
 msedge
