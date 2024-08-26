@@ -1,0 +1,15 @@
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\bin\Release\net6.0\OmenHubKiller.exe
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\bin\Release\net6.0\OmenHubKiller.deps.json
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\bin\Release\net6.0\OmenHubKiller.runtimeconfig.json
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\bin\Release\net6.0\OmenHubKiller.dll
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\bin\Release\net6.0\OmenHubKiller.pdb
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.csproj.AssemblyReference.cache
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.AssemblyInfo.cs
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.dll
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\refint\OmenHubKiller.dll
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.pdb
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\OmenHubKiller.genruntimeconfig.cache
+C:\Users\filip\Documents\Programmi\CSharp\SocketTest\OmenHubKiller\OmenHubKiller\obj\Release\net6.0\ref\OmenHubKiller.dll
